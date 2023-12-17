@@ -1,0 +1,10 @@
+credentials.json
+node_modules/
+pnpm-lock.yaml
+
+.DS_Store
+.env
+
+apps/gmail/node_modules
+apps/gmail/credentials.json
+apps/gmail/pnpm-lock.yaml
